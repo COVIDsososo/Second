@@ -1,4 +1,4 @@
-let clicks = 0;
+﻿let clicks = 0;
 function onClick() {
   clicks +=1;
   alert (clicks);
@@ -14,6 +14,5 @@ function changeColor() {
 }
 
 
-//hhhh
 
 
