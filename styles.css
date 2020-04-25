@@ -1,0 +1,45 @@
+
+   .main {
+     background-color: silver;     
+   }
+
+   .text1 {
+     color: green; 
+   }
+   
+   .text2 {  
+     white-space: nowrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
+   }
+
+   .div {
+     background: white;
+     width: 10%;
+     position: absolute;
+     left: 620px;
+     top: 180px;  
+   }
+
+   .div2 {
+     background: white;
+     width: 10%;
+     position: absolute;
+     left: 220px;
+     top: 180px;  
+   }
+   
+   .image {
+     border-color: green;
+     border-width: 10px;
+     border-style: solid;
+     border-radius: 50%; 
+   }
+
+   .image2 {
+     border-color: red;
+     border-width: 10px;
+     border-style: solid;
+     border-radius: 50%;
+   }
+
